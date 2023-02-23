@@ -1,1 +1,3 @@
 # Lightweight-Detection-for-Fovea-Detection
+
+Fovea is an essential characteristic of our eye as it is the sight of sharpest vision located in the macula lutea of the retina. Systematic detection of fovea location is required for analysis of diabetic macular edema. The following study aims to predict the location of fovea centralis from colour fundus images based on Ensemble method and VGG-16-layer model to improve the overall efficiency of the earlier model. //using an Ensemble Method of CNN and VGG16 model. Furthermore, the images have been pre-processed using the concept of filters to extract better features from the images. Comparative analysis states that the proposed method is more efficient than the earlier methods in terms of accuracy and simplicity.
